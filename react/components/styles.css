@@ -1,0 +1,24 @@
+.quickOrder-container {}
+
+.quickOrder-content {
+    gap: 1rem;
+}
+
+.quickOrder-input {
+    background-color: transparent;
+    color           : white;
+    border-color    : #e3e4e6;
+}
+
+.quickOrder-submitButton {
+    background-color: transparent;
+    color           : white;
+    border-color    : white;
+    width           : fit-content;
+    padding-left    : 3rem;
+    padding-right   : 3rem;
+    padding-top     : 1rem;
+    padding-bottom  : 1rem;
+    border-radius   : 0.25rem;
+    cursor          : pointer;
+}
